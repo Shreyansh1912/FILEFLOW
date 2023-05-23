@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  background: grey;
+  height: 100vh;
+  overflow: hidden;  /*scroll-bar is hidden */
+  display: flex
+}
+img{
+  width: 30%;
+}
+.wrapper{
+  background-color: white;
+  width: 600px;
+  height: 400px;
+  margin: auto;  /* white box is centered*/
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+  font-size: 40px;
+  font-weight: 600;
+  color: lightcoral;
+  margin: 40px 0;
+}
+button{
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: lightcoral;
+  border: 1px solid black;
+  font-size: 20px;
+  margin: 30px 0;
+}
