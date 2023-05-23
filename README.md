@@ -1,12 +1,16 @@
 # FILEFLOW📁
 File Sharing is a MERN Stack Application for storing and sharing your files. 
 
-💻 Technologies Used:
+💻 Technologies Used :
 
 
-Frontend: React.js 
+--> Frontend: React.js 
 
-Backend: Node.js & Express.js
+--> Backend: Node.js & Express.js
 
 
-Database: MongoDB
+--> Database: MongoDB
+
+<p align=center>
+  <img src="fileflow-img.png">
+</p>
